@@ -3,7 +3,7 @@ class Kerala:
     drink="Tender Coconut"
 
     def temple(self):
-        print("I Love Temple")
+        print("I Love To go for Temple ,Because it give some peace")
     def beach(self):
         print('I Love Beach')
 
